@@ -46,3 +46,5 @@ Holds resumes that are mapped to several job categories that include:
 - K-Nearest Neighbor
 - Pickle
 - pdfplumber(Extracting text from pdf)
+
+![image alt](https://github.com/devansh-0001/Resume-Analyzer/blob/371a39451ab2b813c65aea7c468dace2d0919fc8/image/Screenshot%202025-12-29%20150120.png)
