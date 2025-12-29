@@ -22,6 +22,9 @@ Holds resumes that are mapped to several job categories that include:
 - SAP Developer  
 - And more
 
+![image alt](https://github.com/devansh-0001/Resume-Analyzer/blob/8f7c27794319a957c868241b8efc4eb12178b70b/image/Screenshot%202025-12-29%20143957.png)
+
+
 # Project Workflow
 1. Load resume data from the Excel file  
 2. Clean resume text using regular expressions  
